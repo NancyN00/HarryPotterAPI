@@ -1,4 +1,4 @@
-Technologies used
+Technologies used :
 Retrofit
 Hilt 
 Glide
